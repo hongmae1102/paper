@@ -5,3 +5,13 @@
 https://jostosh.github.io/posts/capsnet.html
 
 
+
+entity/property Linking , disambiguation
+1. Cao, Yixin, et al. 
+   "Neural Collective Entity Linking." 
+   Proceedings of the 27th International Conference on Computational Linguistics. 2018.
+
+2. Sorokin, Daniil, and Iryna Gurevych. 
+   "Modeling Semantics with Gated Graph Neural Networks for Knowledge Base Question Answering." 
+   arXiv preprint arXiv:1808.04126 (2018).
+
